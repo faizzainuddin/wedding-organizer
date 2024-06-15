@@ -1,0 +1,3 @@
+untuk dihosting atau terjadi eror Ketika import sql
+ganti COLLATE=utf8mb4_0900_ai_ci pada file .sql
+menjadi COLLATE=utf8mb4_general_ci
