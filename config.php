@@ -1,6 +1,6 @@
 <?php
 // Koneksi ke database
-$servername = "localhost";
+$servername = "127.0.0.1:3307;";
 $username = "root";
 $password = "";
 $database = "db_weddingorg";
