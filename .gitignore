@@ -1,0 +1,17 @@
+# File log sementara
+*.log
+*.tmp
+*.bak
+
+# Folder dan file sistem
+.DS_Store
+Thumbs.db
+
+# Folder XAMPP atau composer/vendor jika ada
+/vendor/
+
+# File konfigurasi lokal (jangan share ke publik)
+.env
+config.php
+koneksi.php
+database.sql
